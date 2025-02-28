@@ -5,7 +5,7 @@
 ### 😄 Connect with me on <a href="https://www.linkedin.com/in/daviddavemurray/">Linkedin</a><br><br><br> ###
 
 - 🔭 I’m currently working on **Finishing my degree, Working on personal projects, Looking for placement and graduate opportunities**<br><br>
-- 💬 I have experience with **C, C++, Java, Python, PHP, JS, HTML, CSS, SQL**<br><br>
+- 💬 I have experience with **Git, C, C++, Java, Python, PHP, JS, HTML, CSS, SQL**<br><br>
 - 🌱 I’m currently learning **C#, Typescript, .NET**<br><br>
 - 👯 I’m looking to collaborate on **Interesting projects solving issues of any size (preferably that help or bring joy to people)**<br><br>
 - 👯 I’m looking to participate in **Cool events like Hackathons and Gamejams**<br><br>
